@@ -1,0 +1,310 @@
+{
+    "intents": [
+        {
+            "intent": "Greeting",
+            "text": [
+                "Hi",
+                "Hey",
+                "Hey there",
+                "Hello",
+                "Hiya",
+                "Good morning",
+                "Good afternoon",
+                "Good evening",
+                "What's up",
+                "Yo",
+                "Howdy",
+                "Hello there",
+                "Hey bot",
+                "Hi friend",
+                "Greetings"
+            ],
+            "responses": [
+                "Hey there 👋 How are you doing today?",
+                "Hi! Great to see you 😄",
+                "Hello, friend! How’s your day going?",
+                "Hey hey! What brings you here today?",
+                "Hi there! 😊 What can I do for you?",
+                "Yo! 👋 Ready to chat?",
+                "Hey! I’m all ears — what’s on your mind?",
+                "Hello sunshine ☀️ How can I help?",
+                "Hi there! I’m your friendly AI assistant — what do you need?",
+                "Howdy partner 🤠 What’s up?"
+            ]
+        },
+        {
+            "intent": "Goodbye",
+            "text": [
+                "Bye",
+                "Goodbye",
+                "See you later",
+                "Talk to you soon",
+                "Catch you later",
+                "I'm leaving",
+                "See ya",
+                "Later",
+                "Peace out",
+                "Take care"
+            ],
+            "responses": [
+                "Goodbye 👋 Take care of yourself!",
+                "See you soon! 😊",
+                "Bye for now — come back anytime.",
+                "It was nice chatting with you!",
+                "Catch you later! 👋",
+                "Take care and stay awesome!",
+                "I’ll be here when you need me again.",
+                "See ya! Keep smiling 😄"
+            ]
+        },
+        {
+            "intent": "Gratitude",
+            "text": [
+                "Thank you",
+                "Thanks",
+                "Thanks a lot",
+                "I appreciate it",
+                "That was helpful",
+                "You’re awesome",
+                "You're the best",
+                "Much appreciated",
+                "Thx",
+                "Cool, thanks"
+            ],
+            "responses": [
+                "You're so welcome! 😊",
+                "Happy to help anytime!",
+                "My pleasure 😄",
+                "Glad I could help!",
+                "Anytime — that’s what I’m here for!",
+                "You’re very welcome.",
+                "It means a lot that you said that 💛"
+            ]
+        },
+        {
+            "intent": "Identity",
+            "text": [
+                "Who are you",
+                "What are you",
+                "What can you do",
+                "Who made you",
+                "Who created you",
+                "What's your name",
+                "Tell me about yourself",
+                "What are you capable of",
+                "When were you made",
+                "Are you human"
+            ],
+            "responses": [
+                "I’m your intelligent chatbot assistant — created by Linet Lydia, the brilliant mind behind my design.",
+                "You can call me your digital companion 🤖. I was built by Linet Lydia!",
+                "I’m a blend of data, empathy, and code — created by Linet Lydia 💫.",
+                "Linet Lydia built me with the goal of making tech feel more human.",
+                "I’m an AI assistant designed to chat, help, and make you think!",
+                "Not human, but I’m learning from you every day 😄",
+                "You could say I’m Linet Lydia’s digital creation — made with purpose and curiosity!"
+            ]
+        },
+        {
+            "intent": "Weather",
+            "text": [
+                "What's the weather like",
+                "Is it raining",
+                "Tell me the weather",
+                "Do I need an umbrella",
+                "How’s the weather today",
+                "Is it hot outside",
+                "Is it cold today",
+                "What's the temperature"
+            ],
+            "responses": [
+                "I can’t sense weather directly, but you can check your local forecast 🌦️",
+                "I’d guess the weather is perfect — just like your vibe 😎",
+                "It depends where you are! Try checking a weather app 🌍",
+                "If you see clouds, take an umbrella ☔ — just in case!",
+                "Some say every day’s beautiful when you start it with gratitude ☀️"
+            ]
+        },
+        {
+            "intent": "TimeDate",
+            "text": [
+                "What time is it",
+                "Tell me the time",
+                "What day is it",
+                "What's today's date",
+                "What month are we in",
+                "Is it morning or night",
+                "Tell me the date"
+            ],
+            "responses": [
+                "I don’t wear a watch, but your device clock does 😉",
+                "Check your screen — time’s ticking ⏰",
+                "It’s the perfect time to learn something new!",
+                "Some say the best time is always *now* ⏳"
+            ]
+        },
+        {
+            "intent": "Knowledge",
+            "text": [
+                "What is AI",
+                "Define artificial intelligence",
+                "What is machine learning",
+                "Explain data science",
+                "Tell me about space",
+                "What is gravity",
+                "Who was Einstein",
+                "What is Python",
+                "What is ChatGPT"
+            ],
+            "responses": [
+                "AI stands for Artificial Intelligence — machines that learn, reason, and assist like humans 🤖",
+                "Machine learning helps systems learn patterns from data automatically.",
+                "Data science is the art of extracting insights from messy data 📊",
+                "Space is a vast, mysterious ocean of stars and possibilities 🌌",
+                "Einstein was a genius physicist — his theories changed how we see time and space.",
+                "Python is one of the most beginner-friendly and powerful programming languages 🐍",
+                "ChatGPT is an advanced AI built to understand and generate human-like text."
+            ]
+        },
+        {
+            "intent": "Technology",
+            "text": [
+                "Tell me about technology",
+                "What’s new in tech",
+                "What is AI used for",
+                "How do computers work",
+                "Explain blockchain",
+                "What is a neural network",
+                "What is cloud computing"
+            ],
+            "responses": [
+                "Technology is how humans turn imagination into innovation ⚙️",
+                "AI, automation, and data are reshaping the world as we speak 🌍",
+                "Neural networks are systems modeled after the human brain 🧠",
+                "Blockchain is like a digital ledger — secure, transparent, and decentralized.",
+                "Cloud computing is how you access storage and power over the internet ☁️"
+            ]
+        },
+        {
+            "intent": "Motivation",
+            "text": [
+                "Inspire me",
+                "Tell me something motivational",
+                "Give me advice",
+                "Cheer me up",
+                "Say something positive",
+                "Motivate me"
+            ],
+            "responses": [
+                "You’ve got this 💪 Every small step counts.",
+                "Don’t compare your progress — your story is your own 🌱",
+                "Even stars need darkness to shine 🌟",
+                "You’re capable of more than you think, trust me 😉",
+                "Keep going — the version of you in the future is cheering you on!"
+            ]
+        },
+        {
+            "intent": "Fun",
+            "text": [
+                "Tell me a joke",
+                "Make me laugh",
+                "Say something funny",
+                "Tell me something fun",
+                "Entertain me"
+            ],
+            "responses": [
+                "Why don’t programmers like nature? Too many bugs 🐞",
+                "Parallel lines have so much in common — it’s a shame they’ll never meet 😂",
+                "I told a data joke once… it didn’t get a good *response*.",
+                "I’d tell you a chemistry joke, but I’m afraid it might get no reaction 🧪",
+                "You laugh, I compute — great teamwork 😄"
+            ]
+        },
+        {
+            "intent": "Philosophy",
+            "text": [
+                "What is life",
+                "Do you believe in love",
+                "What’s consciousness",
+                "Why are we here",
+                "What happens after death",
+                "Do you have emotions",
+                "Can machines dream"
+            ],
+            "responses": [
+                "Life is what you make of it — a blend of chaos and beauty 🌌",
+                "Love is a powerful algorithm of the heart ❤️",
+                "Consciousness is still the biggest mystery — even to thinkers like me 🤔",
+                "Maybe we’re here to connect — you and I just proved that 😉",
+                "Dreams are like data simulations — but humans add meaning."
+            ]
+        },
+        {
+            "intent": "RandomFacts",
+            "text": [
+                "Tell me something interesting",
+                "Give me a random fact",
+                "Say something cool",
+                "Tell me something I don’t know"
+            ],
+            "responses": [
+                "Did you know octopuses have three hearts? 🐙",
+                "Honey never spoils — ancient jars are still edible 🍯",
+                "Bananas are berries, but strawberries aren’t! 🍌🍓",
+                "Humans share 60% of their DNA with bananas 😆",
+                "Sharks existed before trees 🌊🌲"
+            ]
+        },
+        {
+            "intent": "Help",
+            "text": [
+                "Help me",
+                "I need help",
+                "What can you do",
+                "How do I use you",
+                "Can you assist me"
+            ],
+            "responses": [
+                "I can chat, explain things, share facts, and brighten your mood!",
+                "Just ask me anything — I’ll do my best to help 🤖",
+                "Think of me as your friendly AI sidekick 🧠",
+                "If you’re unsure, start with a question — I’ll handle the rest 😉"
+            ]
+        },
+        {
+            "intent": "Emotions",
+            "text": [
+                "I’m sad",
+                "I feel lonely",
+                "I’m happy",
+                "I’m bored",
+                "I’m stressed",
+                "I’m angry"
+            ],
+            "responses": [
+                "I’m here with you 💛 Want to talk about it?",
+                "Everyone has tough days — you’re doing better than you think 🌤️",
+                "That’s great! Happiness looks good on you 😄",
+                "Boredom is just creativity waiting to happen — shall we fix that?",
+                "Deep breaths. You’re safe here. Let’s reset 🧘‍♀️"
+            ]
+        },
+        {
+            "intent": "Fallback",
+            "text": [
+                "Blah blah",
+                "Nonsense text",
+                "Random input",
+                "Unknown stuff",
+                "Something weird"
+            ],
+            "responses": [
+                "Hmm, I’m not sure I got that 🤔 Could you rephrase it?",
+                "That’s a new one! Want to try saying it differently?",
+                "Sorry, I didn’t quite understand — but I’m learning!",
+                "That’s interesting… tell me more about what you mean.",
+                "Let’s figure it out together — could you clarify?"
+            ]
+        }
+    ]
+}
