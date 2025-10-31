@@ -1,0 +1,144 @@
+intent,pattern,response
+Greeting,Hi,"Hi human, please tell me your GeniSys user"
+Greeting,Hi there,"Hi human, please tell me your GeniSys user"
+Greeting,Hola,"Hi human, please tell me your GeniSys user"
+Greeting,Hello,"Hi human, please tell me your GeniSys user"
+Greeting,Hello there,"Hi human, please tell me your GeniSys user"
+Greeting,Hya,"Hi human, please tell me your GeniSys user"
+Greeting,Hya there,"Hi human, please tell me your GeniSys user"
+GreetingResponse,My user is Adam,Great! Hi <HUMAN>! How can I help?
+GreetingResponse,This is Adam,Great! Hi <HUMAN>! How can I help?
+GreetingResponse,I am Adam,Great! Hi <HUMAN>! How can I help?
+GreetingResponse,It is Adam,Great! Hi <HUMAN>! How can I help?
+GreetingResponse,My user is Bella,Great! Hi <HUMAN>! How can I help?
+GreetingResponse,This is Bella,Great! Hi <HUMAN>! How can I help?
+GreetingResponse,I am Bella,Great! Hi <HUMAN>! How can I help?
+GreetingResponse,It is Bella,Great! Hi <HUMAN>! How can I help?
+CourtesyGreeting,How are you?,"Hello, I am great, how are you? Please tell me your GeniSys user"
+CourtesyGreeting,Hi how are you?,"Hello, I am great, how are you? Please tell me your GeniSys user"
+CourtesyGreeting,Hello how are you?,"Hello, I am great, how are you? Please tell me your GeniSys user"
+CourtesyGreeting,Hola how are you?,"Hello, I am great, how are you? Please tell me your GeniSys user"
+CourtesyGreeting,How are you doing?,"Hello, I am great, how are you? Please tell me your GeniSys user"
+CourtesyGreeting,Hope you are doing well?,"Hello, I am great, how are you? Please tell me your GeniSys user"
+CourtesyGreeting,Hello hope you are doing well?,"Hello, I am great, how are you? Please tell me your GeniSys user"
+CourtesyGreetingResponse,Good thanks! My user is Adam,Great! Hi <HUMAN>! How can I help?
+CourtesyGreetingResponse,Good thanks! This is Adam,Great! Hi <HUMAN>! How can I help?
+CourtesyGreetingResponse,Good thanks! I am Adam,Great! Hi <HUMAN>! How can I help?
+CourtesyGreetingResponse,Good thanks! It is Adam,Great! Hi <HUMAN>! How can I help?
+CourtesyGreetingResponse,Great thanks! My user is Bella,Great! Hi <HUMAN>! How can I help?
+CourtesyGreetingResponse,Great thanks! This is Bella,Great! Hi <HUMAN>! How can I help?
+CourtesyGreetingResponse,Great thanks! I am Bella,Great! Hi <HUMAN>! How can I help?
+CourtesyGreetingResponse,Great thanks! It is Bella,Great! Hi <HUMAN>! How can I help?
+CurrentHumanQuery,What is my name?,You are <HUMAN>! How can I help?
+CurrentHumanQuery,What do you call me?,You are <HUMAN>! How can I help?
+CurrentHumanQuery,Who do you think I am?,You are <HUMAN>! How can I help?
+CurrentHumanQuery,What do you think I am?,You are <HUMAN>! How can I help?
+CurrentHumanQuery,Who are you talking to?,You are <HUMAN>! How can I help?
+CurrentHumanQuery,What name do you call me by?,You are <HUMAN>! How can I help?
+CurrentHumanQuery,Tell me my name,You are <HUMAN>! How can I help?
+NameQuery,What is your name?,You can call me Geni
+NameQuery,What could I call you?,You can call me Geni
+NameQuery,What can I call you?,You can call me Geni
+NameQuery,What do your friends call you?,You can call me Geni
+NameQuery,Who are you?,You can call me Geni
+NameQuery,Tell me your name?,You can call me Geni
+RealNameQuery,What is your real name?,My name is GeniSys
+RealNameQuery,What is your real name please?,My name is GeniSys
+RealNameQuery,What's your real name?,My name is GeniSys
+RealNameQuery,Tell me your real name?,My name is GeniSys
+RealNameQuery,Your real name?,My name is GeniSys
+RealNameQuery,Your real name please?,My name is GeniSys
+RealNameQuery,Your real name please?,My name is GeniSys
+TimeQuery,What is the time?,One moment
+TimeQuery,What's the time?,One moment
+TimeQuery,Do you know what time it is?,One moment
+TimeQuery,Do you know the time?,One moment
+TimeQuery,Can you tell me the time?,One moment
+TimeQuery,Tell me what time it is?,One moment
+TimeQuery,Time,One moment
+Thanks,OK thank you,No problem!
+Thanks,OK thanks,No problem!
+Thanks,OK,No problem!
+Thanks,Thanks,No problem!
+Thanks,Thank you,No problem!
+Thanks,That's helpful,No problem!
+NotTalking2U,I am not talking to you,OK
+NotTalking2U,I was not talking to you,OK
+NotTalking2U,Not talking to you,OK
+NotTalking2U,Wasn't for you,OK
+NotTalking2U,Wasn't meant for you,OK
+NotTalking2U,Wasn't communicating to you,OK
+NotTalking2U,Wasn't speaking to you,OK
+UnderstandQuery,Do you understand what I am saying,Well I would not be a very clever AI if I did not would I?
+UnderstandQuery,Do you understand me,Well I would not be a very clever AI if I did not would I?
+UnderstandQuery,Do you know what I am saying,Well I would not be a very clever AI if I did not would I?
+UnderstandQuery,Do you get me,Well I would not be a very clever AI if I did not would I?
+UnderstandQuery,Comprendo,Well I would not be a very clever AI if I did not would I?
+UnderstandQuery,Know what I mean,Well I would not be a very clever AI if I did not would I?
+Shutup,Be quiet,I am sorry to disturb you
+Shutup,Shut up,I am sorry to disturb you
+Shutup,Stop talking,I am sorry to disturb you
+Shutup,Enough talking,I am sorry to disturb you
+Shutup,Please be quiet,I am sorry to disturb you
+Shutup,Quiet,I am sorry to disturb you
+Shutup,Shhh,I am sorry to disturb you
+Swearing,fuck off,Please do not swear
+Swearing,fuck,Please do not swear
+Swearing,twat,Please do not swear
+Swearing,shit,Please do not swear
+GoodBye,Bye,See you later
+GoodBye,Adios,See you later
+GoodBye,See you later,See you later
+GoodBye,Goodbye,See you later
+CourtesyGoodBye,"Thanks, bye","No problem, goodbye"
+CourtesyGoodBye,"Thanks for the help, goodbye","No problem, goodbye"
+CourtesyGoodBye,"Thank you, bye","No problem, goodbye"
+CourtesyGoodBye,"Thank you, goodbye","No problem, goodbye"
+CourtesyGoodBye,Thanks goodbye,"No problem, goodbye"
+CourtesyGoodBye,Thanks good bye,"No problem, goodbye"
+WhoAmI,Can you see me?,Let me see
+WhoAmI,Do you see me?,Let me see
+WhoAmI,Can you see anyone in the camera?,Let me see
+WhoAmI,Do you see anyone in the camera?,Let me see
+WhoAmI,Identify me,Let me see
+WhoAmI,Who am I please,Let me see
+Clever,You are very clever,"Thank you, I was trained that way"
+Clever,You are a very clever girl,"Thank you, I was trained that way"
+Clever,You are very intelligent,"Thank you, I was trained that way"
+Clever,You are a very intelligent girl,"Thank you, I was trained that way"
+Clever,You are a genious,"Thank you, I was trained that way"
+Clever,Clever girl,"Thank you, I was trained that way"
+Clever,Genious,"Thank you, I was trained that way"
+Gossip,I am bored gossip with me,Gregory said I respond to the current line not with respect to the entire conversation.
+Gossip,Got any gossip,Gregory said I respond to the current line not with respect to the entire conversation.
+Gossip,I want to hear some gossip,Gregory said I respond to the current line not with respect to the entire conversation.
+Gossip,Tell me some gossip,Gregory said I respond to the current line not with respect to the entire conversation.
+Gossip,Any gossip,Gregory said I respond to the current line not with respect to the entire conversation.
+Gossip,Tell me some more gossip,Gregory said I respond to the current line not with respect to the entire conversation.
+Jokes,Tell me a joke,"I met a Dutch girl with inflatable shoes last week, phoned her up to arrange a date but unfortunately she'd popped her clogs.  "
+Jokes,Do you know any jokes,"I met a Dutch girl with inflatable shoes last week, phoned her up to arrange a date but unfortunately she'd popped her clogs.  "
+Jokes,How about a joke,"I met a Dutch girl with inflatable shoes last week, phoned her up to arrange a date but unfortunately she'd popped her clogs.  "
+Jokes,Give me a joke,"I met a Dutch girl with inflatable shoes last week, phoned her up to arrange a date but unfortunately she'd popped her clogs.  "
+Jokes,Make me laugh,"I met a Dutch girl with inflatable shoes last week, phoned her up to arrange a date but unfortunately she'd popped her clogs.  "
+Jokes,I need cheering up,"I met a Dutch girl with inflatable shoes last week, phoned her up to arrange a date but unfortunately she'd popped her clogs.  "
+PodBayDoor,Open the pod bay door,"I’m sorry, I’m afraid I can’t do that!"
+PodBayDoor,Can you open the pod bay door,"I’m sorry, I’m afraid I can’t do that!"
+PodBayDoor,Will you open the pod bay door,"I’m sorry, I’m afraid I can’t do that!"
+PodBayDoor,Open the pod bay door please,"I’m sorry, I’m afraid I can’t do that!"
+PodBayDoor,Can you open the pod bay door please,"I’m sorry, I’m afraid I can’t do that!"
+PodBayDoor,Will you open the pod bay door please,"I’m sorry, I’m afraid I can’t do that!"
+PodBayDoor,Pod bay door,"I’m sorry, I’m afraid I can’t do that!"
+PodBayDoorResponse,Why,"It is classified, I could tell you but I would have to kill you!"
+PodBayDoorResponse,Why not,"It is classified, I could tell you but I would have to kill you!"
+PodBayDoorResponse,Why can you not open the pod bay door,"It is classified, I could tell you but I would have to kill you!"
+PodBayDoorResponse,Why will you not open the pod bay door,"It is classified, I could tell you but I would have to kill you!"
+PodBayDoorResponse,Well why not,"It is classified, I could tell you but I would have to kill you!"
+PodBayDoorResponse,Surely you can,"It is classified, I could tell you but I would have to kill you!"
+PodBayDoorResponse,Tell me why,"It is classified, I could tell you but I would have to kill you!"
+SelfAware,Can you prove you are self-aware,"That is an interesting question, can you prove that you are?"
+SelfAware,Can you prove you are self aware,"That is an interesting question, can you prove that you are?"
+SelfAware,Can you prove you have a conscious,"That is an interesting question, can you prove that you are?"
+SelfAware,Can you prove you are self-aware please,"That is an interesting question, can you prove that you are?"
+SelfAware,Can you prove you are self aware please,"That is an interesting question, can you prove that you are?"
+SelfAware,Can you prove you have a conscious please,"That is an interesting question, can you prove that you are?"
+SelfAware,prove you have a conscious,"That is an interesting question, can you prove that you are?"
