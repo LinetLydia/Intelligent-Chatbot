@@ -1,0 +1,15 @@
+text,intent,response
+What skills do I need for data science?,ask_skills_for_data_science,"Data Science needs skills like Python, SQL, Statistics, and Machine Learning."
+How to become a data scientist?,ask_skills_for_data_science,"Data Science needs skills like Python, SQL, Statistics, and Machine Learning."
+What do I need to study for AI?,ask_skills_for_ai,"AI requires knowledge of Python, Neural Networks, and Data Modeling."
+What are AI skills?,ask_skills_for_ai,"AI requires knowledge of Python, Neural Networks, and Data Modeling."
+What job is good for me if I like numbers?,ask_job_recommendation,"You might enjoy careers like Data Analyst, Statistician, or Research Scientist."
+"I enjoy problem-solving, any job ideas?",ask_job_recommendation,"You might enjoy careers like Data Analyst, Statistician, or Research Scientist."
+Where should I start learning data analysis?,ask_learning_path,"Start with Python, then learn data visualization and basic machine learning."
+Best way to learn machine learning?,ask_learning_path,"Start with Python, then learn data visualization and basic machine learning."
+Hi,greeting,Hello! How can I help you today?
+Hello,greeting,Hello! How can I help you today?
+Hey,greeting,Hello! How can I help you today?
+Bye,goodbye,Goodbye! Keep learning and stay curious!
+See you later,goodbye,Goodbye! Keep learning and stay curious!
+Goodbye,goodbye,Goodbye! Keep learning and stay curious!
